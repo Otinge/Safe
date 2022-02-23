@@ -1,7 +1,7 @@
 
 1500782_spine_idle.png
 size: 2048,2048
-format: RGBA8888
+format: RGBA4444
 filter: Linear,Linear
 repeat: none
 arm_l
