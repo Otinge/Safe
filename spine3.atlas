@@ -385,7 +385,7 @@ weapon_ex
 
 1500782_spine_idle2.png
 size: 2048,2048
-format: RGBA8888
+format: RGBA4444
 filter: Linear,Linear
 repeat: none
 eff_4
@@ -398,7 +398,7 @@ eff_4
 
 1500782_spine_idle3.png
 size: 2048,2048
-format: RGBA8888
+format: RGBA4444
 filter: Linear,Linear
 repeat: none
 floor
